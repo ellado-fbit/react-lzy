@@ -1,10 +1,11 @@
-##Steps of running this project
+## Install
 
-from the command prompt clone the project
+~~~
+npm install
+~~~
 
-* $git clone https://github.com/techsithgit/react-saga-example.git
-* $cd react-saga-example
-* $npm install
-* $npm start
+## Usage
 
-[Watch the Tutorial]().
+~~~
+npm start
+~~~
